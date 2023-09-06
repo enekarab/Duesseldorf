@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(228, 232, 235);
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 60px;
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    font-family: Arial;
+    text-align: left;
+    color: white;
+    background-color: #333;
+}
+
+table {
+    text-align: center;
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+}
